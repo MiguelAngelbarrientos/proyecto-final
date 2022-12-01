@@ -17,5 +17,5 @@ salida: mostrar los datos recabados
 | Elija una opcion solo (1-4)                  |
 +----------------------------------------------+
 ##Etapa 3 disño de la solución
-¡[](https://github.com/MiguelAngelbarrientos/proyecto-final/blob/main/proyecto%20final.png)
+¡ [] (https://github.com/MiguelAngelbarrientos/proyecto-final/blob/main/proyecto%20final.png)
 
