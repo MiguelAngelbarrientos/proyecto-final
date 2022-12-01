@@ -6,6 +6,7 @@ crea una bse de datos de trabajadores donde pidas datos personales y de trabajo 
 Entrada: nombre, apellidoPaterno, apellidoMaterno, direccion, curp, edad, telefono, sueldo a desear, nivel de estudios, experiencia laboral, en que a trabajado, en que maquinas se especializa, genero 
 proceso: imprimir 
 salida: mostrar los datos recabados
+~~~
 +----------------------------------------------+
 |PROYECTO FINAL- ENTREVISTA DE TRABAJO         |
 +----------------------------------------------+
@@ -16,6 +17,7 @@ salida: mostrar los datos recabados
 | 4.- finalizar y salir                        |
 | Elija una opcion solo (1-4)                  |
 +----------------------------------------------+
+~~~
 ##Etapa 3 disño de la solución
 ¡ [](https://github.com/MiguelAngelbarrientos/proyecto-final/blob/main/proyecto%20final.png)
 
